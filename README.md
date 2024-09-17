@@ -24,6 +24,8 @@ DeepMedSeg/
 │   ├── other_networks/             # 其他扩展的网络
 │   ├── utils/                      # 2D工具函数
 │   ├── test.py                     # 2D分割的测试代码
+│   ├── tester.py                   
+│   ├── trainer.py                  
 │   └── train.py                    # 2D分割的训练代码
 ├── 3d/                             # 3D医学图像分割部分
 │   ├── lib/                        # 存放3D分割相关的库
