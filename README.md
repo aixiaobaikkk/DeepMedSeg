@@ -7,8 +7,8 @@
 **DeepMedSeg** 是一个用于 **医学图像分割** 的开源框架，支持处理 **2D** 和 **3D** 医学数据，并集成了多种流行的分割网络架构。本项目旨在简化研究人员在医学图像分割领域的开发和实验过程，具有模块化、可扩展性强的特点，能够快速定制和测试各种分割模型。
 
 该框架支持的主要功能包括：
-- **2D 与 3D 医学数据的处理**，如CT、MRI、X光片等。
-- **流行的分割网络集成**：包括 U-Net、3D U-Net、Attention U-Net、ResUNet、Swin UNet、Missformer、TransUNet、Swin UNetr、UNETR、nnUNet、nnFormer 等（目前正在拓展中）。
+- **2D 与 3D 医学数据的处理**，如CT、MRI、自然图片数据等。
+- **流行的分割网络集成**：包括 U-Net、3D U-Net、Attention U-Net、ResUNet、Swin UNet、MissFormer、TransUNet、Swin UNetr、UNETR、nnUNet、nnFormer 等（目前正在拓展中）。
 - **高扩展性**：可以轻松集成新模型和数据处理方法。
 - **完整的训练与测试流程**，包括数据预处理、训练、验证、评估等模块。
 
